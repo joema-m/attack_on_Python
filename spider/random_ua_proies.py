@@ -39,6 +39,7 @@ user_agent = [
 # 下面来获取代理ip
 # 首先要找一个靠谱的免费代理网站
 # 例如：https://www.kuaidaili.com/free/intr/
+# 测试过后才知道这里的代理连不上，虽然能ping通，port也没问题
 # 下面来自动获取ip以及端口号
 def get_proxies(pages=2):
     """
