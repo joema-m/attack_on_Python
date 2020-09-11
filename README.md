@@ -12,6 +12,6 @@
 | 2020.09.08 | [算法](./algorithm)  | [排序算法_part_1](./algorithm/sort_part_1.py)          | 选择，冒泡，插入，希尔   |
 | 2020.09.09 | [基础](./base)       | [解析参数](./base/parse.py)                            |                       |
 | 2020.09.10 | [基础](./base)       | [python的拷贝](./base/python的拷贝.md)                  |  赋值、浅拷贝、深拷贝    |
-|            |                      |                                                        |               |
+| 2020.09.11 | [算法](./algorithm)  | [二叉树的遍历](./algorithm/tree_raverse.py)             |  前中后层的递归和非递归实现 |
 |            |                      |                                                        |              |
 
